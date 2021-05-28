@@ -1,0 +1,16 @@
+URL to be processed is: http://ceclnx01.cec.miamioh.edu/~raodm/miami_university.txt
+Processing file "/~raodm/miami_university.txt" from "ceclnx01.cec.miamioh.edu":"80" ...
+HTTP/1.1 200 OK
+Server: localhost
+Connection: Close
+Content-Type: text/html
+Content-Length: 195
+
+<html>
+  <body>
+    <h2>Analysis results</h2>
+    <p>Number of words: 15180</p>
+    <p>Total number of characters: 188493</p>
+    <p>Average word length: 12.4172 chars/word</p>
+  </body>
+</html>

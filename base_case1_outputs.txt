@@ -1,0 +1,16 @@
+URL to be processed is: http://www.users.miamioh.edu/raodm/ones.txt
+Processing file "/raodm/ones.txt" from "www.users.miamioh.edu":"80" ...
+HTTP/1.1 200 OK
+Server: localhost
+Connection: Close
+Content-Type: text/html
+Content-Length: 182
+
+<html>
+  <body>
+    <h2>Analysis results</h2>
+    <p>Number of words: 10</p>
+    <p>Total number of characters: 40</p>
+    <p>Average word length: 4 chars/word</p>
+  </body>
+</html>
